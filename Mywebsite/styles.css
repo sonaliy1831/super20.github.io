@@ -1,0 +1,72 @@
+/* styles.css */
+body{
+    background-color:bisque;
+    margin: 0;
+    padding: 0;
+    font-family: Arial,sans-serif;
+    margin:20px;
+    padding: 0;
+    font-size: xx-large;
+    font-style:normal;
+    font-weight: bold;
+    float: inline-end;
+    
+}
+
+/*style the header section*/
+header{
+    background-color:black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ccc; 
+}
+
+h1{
+    color:black;
+
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.6;
+    background-color:wheat;
+
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+h3{
+    text-align: center;
+    color:blue;
+    font-size:larger;
+    font: 900;
+}
+h4{
+    
+    color:blue;
+    font-size: larger;
+
+}
+h5{
+    text-align: center;
+    color:black;
+    font-size: larger;
+}
+
+p{
+    font-size: 28px;
+
+    line-height: 1.6;
+}
+
+
+img{
+    max-width: 100%;
+    height: auto;
+}
